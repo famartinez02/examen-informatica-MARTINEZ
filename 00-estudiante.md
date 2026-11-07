@@ -1,7 +1,7 @@
 # Datos del estudiante
 
-- **Apellido y nombre:**
-- **Tecnicatura:** (Higiene y Seguridad / Comercio Exterior / Marketing Digital / Seguros / Administración de Empresas)
+- **Apellido y nombre:Martinez, Florencia Martinez**
+- **Tecnicatura:Higiene y Seguridad** 
 - **Cohorte / turno:**
-- **Fecha:**
+- **Fecha:07/11/26**
 - **Consigna que desarrollo:** `consignas/` + nombre del archivo
